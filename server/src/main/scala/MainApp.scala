@@ -3,6 +3,6 @@
  */
 object MainApp extends App {
 
-  println("hello world")
+  val httpServer = new HttpServer("0.0.0.0", 40080)
 
 }
