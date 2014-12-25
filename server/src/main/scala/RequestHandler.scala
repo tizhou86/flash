@@ -1,3 +1,5 @@
+package io.tizo.flash.server
+
 import akka.http.model._
 import akka.http.model.HttpMethods._
 import akka.stream.scaladsl.Flow

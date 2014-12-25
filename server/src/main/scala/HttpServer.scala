@@ -1,6 +1,7 @@
 /**
  * Created by tiiizhou on 12/24/14.
  */
+package io.tizo.flash.server
 
 import akka.actor.ActorSystem
 import akka.http.Http
